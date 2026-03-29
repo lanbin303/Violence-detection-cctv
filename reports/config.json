@@ -1,0 +1,18 @@
+{
+    "IMG_SIZE": 128,
+    "FRAME_COUNT": 15,
+    "BATCH_SIZE": 32,
+    "EPOCHS_PHASE1": 15,
+    "EPOCHS_FINE_TUNE": 10,
+    "SEED": 42,
+    "CLASSES": [
+        "Normal",
+        "Violence"
+    ],
+    "SOURCES": [
+        "/kaggle/input/smartcity-cctv-violence-detection-dataset-scvd/SCVD/SCVD_converted_sec_split",
+        "/kaggle/input/rwf2000/RWF-2000",
+        "/kaggle/input/real-life-violence-situations-dataset/Real Life Violence Dataset"
+    ],
+    "GENERATED_AT": "2026-03-27 23:51:56"
+}
