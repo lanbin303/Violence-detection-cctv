@@ -1,0 +1,5 @@
+output_results/
+__pycache__/
+*.pyc
+*.keras
+*.h5
