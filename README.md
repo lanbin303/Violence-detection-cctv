@@ -146,7 +146,7 @@ Hệ thống tích hợp **Temporal Attention Visualization** giúp giải thíc
 
 ## 👤 Tác giả
 
-- **Họ tên:** Nguyễn Trần (ln1703nguyнtrnh)
+- **Họ tên:** Nguyễn Trịnh Lân (ln1703nguyнtrnh)
 - **Kaggle:** [kaggle.com/ln1703nguyнtrnh](https://kaggle.com)
 
 ---
